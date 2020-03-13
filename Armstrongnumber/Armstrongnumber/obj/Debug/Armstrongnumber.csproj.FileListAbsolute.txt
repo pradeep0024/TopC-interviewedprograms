@@ -1,0 +1,6 @@
+C:\c#practice\Armstrongnumber\Armstrongnumber\bin\Debug\Armstrongnumber.exe.config
+C:\c#practice\Armstrongnumber\Armstrongnumber\bin\Debug\Armstrongnumber.exe
+C:\c#practice\Armstrongnumber\Armstrongnumber\bin\Debug\Armstrongnumber.pdb
+C:\c#practice\Armstrongnumber\Armstrongnumber\obj\Debug\Armstrongnumber.csprojAssemblyReference.cache
+C:\c#practice\Armstrongnumber\Armstrongnumber\obj\Debug\Armstrongnumber.exe
+C:\c#practice\Armstrongnumber\Armstrongnumber\obj\Debug\Armstrongnumber.pdb
