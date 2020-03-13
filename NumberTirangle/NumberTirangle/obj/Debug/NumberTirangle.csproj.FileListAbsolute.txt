@@ -1,0 +1,5 @@
+C:\c#practice\NumberTirangle\NumberTirangle\bin\Debug\NumberTirangle.exe.config
+C:\c#practice\NumberTirangle\NumberTirangle\bin\Debug\NumberTirangle.exe
+C:\c#practice\NumberTirangle\NumberTirangle\bin\Debug\NumberTirangle.pdb
+C:\c#practice\NumberTirangle\NumberTirangle\obj\Debug\NumberTirangle.exe
+C:\c#practice\NumberTirangle\NumberTirangle\obj\Debug\NumberTirangle.pdb

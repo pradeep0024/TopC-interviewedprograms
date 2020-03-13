@@ -1,0 +1,6 @@
+C:\c#practice\findaverage\findaverage\bin\Debug\findaverage.exe.config
+C:\c#practice\findaverage\findaverage\bin\Debug\findaverage.exe
+C:\c#practice\findaverage\findaverage\bin\Debug\findaverage.pdb
+C:\c#practice\findaverage\findaverage\obj\Debug\findaverage.csprojAssemblyReference.cache
+C:\c#practice\findaverage\findaverage\obj\Debug\findaverage.exe
+C:\c#practice\findaverage\findaverage\obj\Debug\findaverage.pdb
