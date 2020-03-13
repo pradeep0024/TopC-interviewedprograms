@@ -1,0 +1,6 @@
+C:\c#practice\whileloop\whileloop\bin\Debug\whileloop.exe.config
+C:\c#practice\whileloop\whileloop\bin\Debug\whileloop.exe
+C:\c#practice\whileloop\whileloop\bin\Debug\whileloop.pdb
+C:\c#practice\whileloop\whileloop\obj\Debug\whileloop.csprojAssemblyReference.cache
+C:\c#practice\whileloop\whileloop\obj\Debug\whileloop.exe
+C:\c#practice\whileloop\whileloop\obj\Debug\whileloop.pdb

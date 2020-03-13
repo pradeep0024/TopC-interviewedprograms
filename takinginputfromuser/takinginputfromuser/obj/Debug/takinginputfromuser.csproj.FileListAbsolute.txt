@@ -1,0 +1,5 @@
+C:\c#practice\takinginputfromuser\takinginputfromuser\bin\Debug\takinginputfromuser.exe.config
+C:\c#practice\takinginputfromuser\takinginputfromuser\bin\Debug\takinginputfromuser.exe
+C:\c#practice\takinginputfromuser\takinginputfromuser\bin\Debug\takinginputfromuser.pdb
+C:\c#practice\takinginputfromuser\takinginputfromuser\obj\Debug\takinginputfromuser.exe
+C:\c#practice\takinginputfromuser\takinginputfromuser\obj\Debug\takinginputfromuser.pdb

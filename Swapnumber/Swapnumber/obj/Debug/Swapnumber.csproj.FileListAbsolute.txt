@@ -1,0 +1,5 @@
+C:\c#practice\Swapnumber\Swapnumber\bin\Debug\Swapnumber.exe.config
+C:\c#practice\Swapnumber\Swapnumber\bin\Debug\Swapnumber.exe
+C:\c#practice\Swapnumber\Swapnumber\bin\Debug\Swapnumber.pdb
+C:\c#practice\Swapnumber\Swapnumber\obj\Debug\Swapnumber.exe
+C:\c#practice\Swapnumber\Swapnumber\obj\Debug\Swapnumber.pdb

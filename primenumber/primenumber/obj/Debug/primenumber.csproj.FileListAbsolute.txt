@@ -1,0 +1,5 @@
+C:\c#practice\primenumber\primenumber\bin\Debug\primenumber.exe.config
+C:\c#practice\primenumber\primenumber\bin\Debug\primenumber.exe
+C:\c#practice\primenumber\primenumber\bin\Debug\primenumber.pdb
+C:\c#practice\primenumber\primenumber\obj\Debug\primenumber.exe
+C:\c#practice\primenumber\primenumber\obj\Debug\primenumber.pdb
